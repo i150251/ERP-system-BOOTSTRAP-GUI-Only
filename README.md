@@ -7,8 +7,7 @@ Below are some points to be noted:
 
 2- each HTML file opens easily without any changes required. It makes use of stuff present in ASSETS folder thus the "ASSETS" folder should not be deleted.
 
-3- each HTML file has a very well written organized code with help of <Div>.
   
- 4- Take advantage of 'Reusibility Concept' and you can easily resuse the components present in each HTML file.
+3- Take advantage of 'Reusibility Concept' and you can easily resuse the components present in each HTML file.
  
- 5- HTML is relatively easily to understand as its component based.
+4- HTML is relatively easily to understand as its component based by the help of division tag. Each component has its own life and does not depend on other component. 
